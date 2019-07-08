@@ -1,0 +1,21 @@
+.page{
+    width:1600px;height:800px;
+    background:url(../img/slide/ban666.jpg) no-repeat;
+    
+}
+.liste{
+    background: #ffeceb;
+    width:500px;height:300px;
+    border:2px solid #ddd;
+}
+.liste_lo{
+    
+}
+.liste_logo{
+    text-align: center;border-bottom: 1px solid #000;
+}
+.uname{
+    margin-left: 2px;
+    width:400px;
+    height:30px;
+}
