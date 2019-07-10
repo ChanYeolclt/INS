@@ -1,21 +1,61 @@
 .page{
-    width:1600px;height:800px;
+    width:100%;height:800px;
     background:url(../img/slide/ban666.jpg) no-repeat;
-    
+    background-size: 100%;
 }
 .liste{
-    background: #ffeceb;
+    background:rgba(255,255,255,.5);
     width:500px;height:300px;
-    border:2px solid #ddd;
-}
-.liste_lo{
-    
+    position: absolute;
+    top: 40%;left:73%
 }
 .liste_logo{
     text-align: center;border-bottom: 1px solid #000;
 }
-.uname{
-    margin-left: 2px;
+.uname {
+    margin-left: 36px;
     width:400px;
     height:30px;
+    border:0;
+    padding-left:10px;
+    box-sizing: border-box;
+}
+.upwd{
+    margin-left: 36px;
+    width:400px;
+    height:30px;
+    border:0;
+    padding-left:10px;
+    box-sizing: border-box;
+}
+.logo{
+    margin-left: 36px;
+    width:400px;
+    height:30px;
+    background: #ff0036;
+    text-align: center;
+    border:0;
+}
+.img_qq{
+    margin:0px 10px 0px 36px;  
+    float: left;
+}
+.q{
+ line-height: 24px;
+ float: left;
+ color:#fff;
+}
+
+.img_wx{
+    margin:0px 10px;  
+    float: left;
+}
+
+.mm{
+    text-align:right;
+    padding-left:0px;
+    display:block;
+    color:#fff;
+    font-size:12px;
+    margin-right:55px;
 }
